@@ -165,7 +165,8 @@ highlight SignColumn guifg=#87af87 guibg=NONE gui=NONE ctermfg=108 ctermbg=NONE 
 "DARKER GRAY BACKGROUND
 if 1
 	"COLORS
-	highlight Normal guifg=#d0d0d0 guibg=#262626 gui=NONE ctermfg=252 ctermbg=235 cterm=NONE
+	" highlight Normal guifg=#d0d0d0 guibg=#262626 gui=NONE ctermfg=252 ctermbg=235 cterm=NONE
+	highlight Normal guifg=#B3B1AD guibg=#262626 gui=NONE ctermfg=249 ctermbg=235 cterm=NONE
 	highlight Comment guifg=#585858 guibg=NONE gui=NONE ctermfg=240 ctermbg=NONE cterm=NONE
 
 	"WINDOW UI
@@ -204,7 +205,8 @@ endif
 "DARKER GRAY BACKGROUND
 if g:siena_Twilight
 	"COLORS
-	highlight Normal guifg=#d0d0d0 guibg=#1c1c1c gui=NONE ctermfg=252 ctermbg=234 cterm=NONE
+	" highlight Normal guifg=#d0d0d0 guibg=#1c1c1c gui=NONE ctermfg=252 ctermbg=234 cterm=NONE
+	highlight Normal guifg=#B3B1AD guibg=#1c1c1c gui=NONE ctermfg=249 ctermbg=234 cterm=NONE
 	highlight Comment guifg=#4e4e4e guibg=NONE gui=NONE ctermfg=239 ctermbg=NONE cterm=NONE
 
 	"WINDOW UI
@@ -243,7 +245,8 @@ endif
 "ALMOST BLACK BACKGROUND
 if g:siena_Midnight
 	"COLORS
-	highlight Normal guifg=#d0d0d0 guibg=#121212 gui=NONE ctermfg=252 ctermbg=233 cterm=NONE
+	" highlight Normal guifg=#d0d0d0 guibg=#121212 gui=NONE ctermfg=252 ctermbg=233 cterm=NONE
+	highlight Normal guifg=#B3B1AD guibg=#121212 gui=NONE ctermfg=249 ctermbg=233 cterm=NONE
 	highlight Comment guifg=#4e4e4e guibg=NONE gui=NONE ctermfg=239 ctermbg=NONE cterm=NONE
 
 	"WINDOW UI
@@ -282,7 +285,8 @@ endif
 "BLACK BACKGROUND
 if g:siena_Pitch
 	"COLORS
-	highlight Normal guifg=#d0d0d0 guibg=#080808 gui=NONE ctermfg=252 ctermbg=232 cterm=NONE
+	" highlight Normal guifg=#d0d0d0 guibg=#080808 gui=NONE ctermfg=252 ctermbg=232 cterm=NONE
+	highlight Normal guifg=#B3B1AD guibg=#080808 gui=NONE ctermfg=249 ctermbg=232 cterm=NONE
 	highlight Comment guifg=#4e4e4e guibg=NONE gui=NONE ctermfg=239 ctermbg=NONE cterm=NONE
 
 	"WINDOW UI
