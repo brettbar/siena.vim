@@ -1,6 +1,5 @@
 "SUPPORT:
 " 256 color terminals, Gui versions of vim, and Termguicolors versions of vim
-"
 "INSTALL LOCATION:
 "Unix users, place siena.vim in ~/.vim/colors
 "Windows users, place siena.vim in ~\vimfiles\colors
