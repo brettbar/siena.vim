@@ -140,8 +140,8 @@ highlight ModeMsg guifg=#dfdfdf guibg=NONE gui=NONE ctermfg=188 ctermbg=NONE cte
 highlight Todo guifg=#eeeeee guibg=#1c1c1c gui=reverse ctermfg=255 ctermbg=234 cterm=reverse
 highlight SignColumn guifg=#87af87 guibg=NONE gui=NONE ctermfg=108 ctermbg=NONE cterm=NONE
 
-highlight Normal ctermbg=none guibg=#262626
-highlight LineNr ctermbg=none guibg=#262626
+" highlight Normal ctermbg=none guibg=#262626
+" highlight LineNr ctermbg=none guibg=#262626
 " highlight StatusLine ctermbg=none guibg=none
 " highlight TabLine ctermbg=none guibg=none
 " highlight TabLineSel ctermbg=none guibg=none
