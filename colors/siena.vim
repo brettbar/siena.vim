@@ -141,7 +141,7 @@ highlight Todo guifg=#eeeeee guibg=#1c1c1c gui=reverse ctermfg=255 ctermbg=234 c
 highlight SignColumn guifg=#87af87 guibg=NONE gui=NONE ctermfg=108 ctermbg=NONE cterm=NONE
 
 "COLORS
-highlight Normal guifg=#B3B1AD guibg=#262626 gui=NONE ctermfg=252 ctermbg=235 cterm=NONE
+highlight Normal guifg=#B3B1AD guibg=#111111 gui=NONE ctermfg=252 ctermbg=235 cterm=NONE
 highlight Comment guifg=#585858 guibg=NONE gui=NONE ctermfg=240 ctermbg=NONE cterm=NONE
 
 "WINDOW UI
