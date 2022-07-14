@@ -164,7 +164,7 @@ highlight CursorColumn guifg=NONE guibg=#1c1c1c gui=NONE ctermfg=NONE ctermbg=23
 highlight ColorColumn guifg=NONE guibg=#1c1c1c gui=NONE ctermfg=NONE ctermbg=236 cterm=NONE
 highlight Folded guifg=#6c6c6c guibg=NONE gui=NONE ctermfg=242 ctermbg=NONE cterm=NONE
 highlight VertSplit guifg=#3a3a3a guibg=#1c1c1c gui=NONE ctermfg=237 ctermbg=235 cterm=NONE
-highlight LineNr guifg=#4e4e4e guibg=#1c1c1c gui=NONE ctermfg=239 ctermbg=235 cterm=NONE
+highlight LineNr guifg=#4e4e4e guibg=NONE gui=NONE ctermfg=239 ctermbg=235 cterm=NONE
 highlight NonText guifg=#3a3a3a guibg=NONE gui=NONE ctermfg=237 ctermbg=NONE cterm=NONE
 highlight SpecialKey guifg=#3a3a3a guibg=NONE gui=NONE ctermfg=237 ctermbg=NONE cterm=NONE
 
