@@ -48,7 +48,8 @@ highlight! Dark_Cyan_Reverse guifg=#5f8787 guibg=NONE gui=reverse ctermfg=66 cte
 highlight! Medium_Cyan guifg=#87afaf guibg=NONE gui=NONE ctermfg=109 ctermbg=NONE cterm=NONE
 highlight! Medium_Cyan_Reverse guifg=#87afaf guibg=NONE gui=reverse ctermfg=109 ctermbg=NONE cterm=reverse
 highlight! Dark_Red_Reverse guifg=#af5f5f guibg=NONE gui=reverse ctermfg=131 ctermbg=NONE cterm=reverse
-highlight! Light_Red guifg=#dfafaf guibg=NONE gui=NONE ctermfg=181 ctermbg=NONE cterm=NONE
+" highlight! Light_Red guifg=#dfafaf guibg=NONE gui=NONE ctermfg=181 ctermbg=NONE cterm=NONE
+highlight! Light_Red guifg=#baba8c guibg=NONE gui=NONE ctermfg=181 ctermbg=NONE cterm=NONE
 highlight! Medium_Red guifg=#d78787 guibg=NONE gui=NONE ctermfg=174 ctermbg=NONE cterm=NONE
 highlight! Dark_Red guifg=#af5f5f guibg=NONE gui=NONE ctermfg=131 ctermbg=NONE cterm=NONE
 highlight! Red_Reverse guifg=#d75f5f guibg=NONE gui=reverse ctermfg=167 ctermbg=NONE cterm=reverse
